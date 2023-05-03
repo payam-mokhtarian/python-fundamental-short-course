@@ -1,2 +1,7 @@
 # Python Fundamentals - Short Course
 
+Python is one of the most popular programming languages in the world, renowned for its simplicity, readability, and versatility. It is an open-source language that is widely used in various domains, including web development, data science, machine learning, and artificial intelligence. Python's popularity lies in its easy-to-learn syntax, which allows developers to write efficient and effective code in a short amount of time.
+
+If you are interested in learning Python or want to develop a strong foundation in the language, then a short course in Python Fundamentals is an excellent place to start. In this course, you will learn about the basic concepts and topics of Python, including data types, control structures, functions, modules, and object-oriented programming. You will also gain hands-on experience in writing code using Python and learn how to create and run basic programs.
+
+Throughout the course, you will be introduced to various tools and libraries that are commonly used in Python development. The basic topics in this course enable you get started with fundamentals of python for further learning in specififc domain like data sicnec and machine learning. By the end of the course, you will have a solid understanding of Python's fundamentals, including the ability to write basic programs and use common libraries. This knowledge will form the basis for further exploration of Python's capabilities and enable you to build more complex applications in the future.
